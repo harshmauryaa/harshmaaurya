@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Harsh Maurya</h1>
 <h3 align="center">A student android developer with knowledge in Firebase, Google Cloud, TensorFlow, and UI/UX is a highly skilled individual who has experience in building and designing Android applications utilizing Firebase for backend services, Google Cloud for data storage, TensorFlow for machine learning, and a good understanding of UI/UX design principles to create visually appealing and user-friendly apps. This person would be a valuable asset to any team looking to develop robust, feature-rich Android applications.</h3>
